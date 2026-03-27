@@ -1,0 +1,15 @@
+model,crop,Accuracy,Accuracy_Pct
+Logistic Regression,Millet,0.627906976744186,62.8
+Logistic Regression,Sorghum,0.6046511627906976,60.5
+Random Forest,Millet,0.5813953488372093,58.1
+Random Forest,Sorghum,0.6744186046511628,67.4
+Gradient Boosting,Millet,0.5581395348837209,55.8
+Gradient Boosting,Sorghum,0.6511627906976745,65.1
+XGBoost,Millet,0.6046511627906976,60.5
+XGBoost,Sorghum,0.7209302325581395,72.1
+CART Decision Tree,Millet,0.6046511627906976,60.5
+CART Decision Tree,Sorghum,0.7209302325581395,72.1
+CatBoost,Millet,0.5348837209302325,53.5
+CatBoost,Sorghum,0.6744186046511628,67.4
+KNN,Millet,0.5813953488372093,58.1
+KNN,Sorghum,0.6046511627906976,60.5
